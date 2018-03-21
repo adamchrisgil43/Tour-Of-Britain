@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tour of Britain</string>
+    <string name="tvUsername">Username</string>
+    <string name="tvPassword">Password</string>
+    <string name="bLogin">Login</string>
+    <string name="bNewuser">New User</string>
+    <string name="etUsername">username</string>
+    <string name="etPassword">Password</string>
+    <string name="Bnew_member">New Member</string>
+    <string name="Bedit_member">Edit Member</string>
+    <string name="Bview_members">View Members</string>
+    <string name="Bback">Back</string>
+    <string name="tour_of_britain">Tour of Britain</string>
+    <string name="menu">Menu</string>
+    <string name="new_user">New User</string>
+    <string name="new_member">New Member</string>
+    <string name="edit_member">Edit Member</string>
+    <string name="view_members">View Members</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="post_code">Post Code</string>
+    <string name="house_number">House Number</string>
+    <string name="member">Member</string>
+    <string name="add_member">Add Member</string>
+    <string name="add_user">Add User</string>
+    <string name="update_member">Update Member</string>
+    <string name="find_member">Find Member</string>
+    <string name="Tick">Tick</string>
+</resources>
